@@ -15,4 +15,24 @@ Este projeto é uma versão web do popular jogo de adivinhação de palavras "Te
 
 ## 🚀 Como usar
 
-1. Faça o download ou clone este repositório:
+1. Faça o download ou clone este repositório
+2. Abra o arquivo `index.html` em qualquer navegador moderno.
+
+> Nenhuma instalação adicional é necessária.
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML** – estrutura do jogo
+- **CSS** – estilos, cores e layout responsivo
+- **JavaScript** – lógica do jogo, interações e controle do teclado
+
+## 📂 Estrutura dos Arquivos
+
+- `index.html` – estrutura principal do site
+- `styles.css` – estilos do jogo e teclado
+- `script.js` – lógica de funcionamento e interações
+
+
+Desenvolvido pelo canal do YouTuber @pasquadev, sendo utilizado e adaptado por mim, com muito carinho❤️ para estudos de front-end e lógica com JavaScript.
+
+
