@@ -10,7 +10,7 @@ Este projeto é uma versão web do popular jogo de adivinhação de palavras "Te
 - Cores indicativas para feedback:
   - 🟩 Verde: letra certa na posição certa
   - 🟨 Amarelo: letra certa na posição errada
-  - ⬛ Vermelho: letra errada
+  - 🟥 Vermelho: letra errada
 - Botões de **Enter**, **Backspace** e **Reiniciar**
 
 ## 🚀 Como usar
